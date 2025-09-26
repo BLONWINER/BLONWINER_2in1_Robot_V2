@@ -1,14 +1,14 @@
+#Thank you very much to Callyn Villanueva for discovering the issue with our code and proposing a solution.
+
 # BLONWINER 2 in 1 Robot for Raspberry Pi
 BLONWINER 2 in 1 Robot is an open source intelligent robotics product for artificial intelligence, robotics enthusiasts and students.
 This product is based on the Raspberry Pi motherboard using the python language and is compatible with the following Raspberry Pi models: 3B,3B+,4,5, etc.
-
 
 ## Resources Links
 
 [RobotName]: BLONWINER 2 in 1 Robot
 [Item Code]: BSKU001_V2
 [Technical support email]:  BLONWINER@outlook.com   
-
 
 ## Getting Support or Providing Advice
 
@@ -25,5 +25,3 @@ Technical support: BLONWINER@outlook.com
 ## Copyright
 
 BLONWINER brand and logo are copyright of Shenzhen BLONWINER Technology Co., Ltd. and cannot be used without written permission.
-
-
